@@ -1,7 +1,7 @@
 HTML, CSS, and a bit of JavaScript were used to design this website. Below are the screenshots:
 
 Main Page:
-![image_2024-09-11_23-46-58](https://github.com/user-attachments/assets/4d4123f2-6783-4ae3-b3df-8558154b9cd7)
+![image_2024-09-11_23-46-58](https://github.com/user-attachments/assets/48f0b341-842e-4648-bc20-88871e2842e4)
 
 Explore:
 ![image_2024-09-11_23-47-12](https://github.com/user-attachments/assets/d22311ea-4487-4a33-9c34-752567f4972c)
